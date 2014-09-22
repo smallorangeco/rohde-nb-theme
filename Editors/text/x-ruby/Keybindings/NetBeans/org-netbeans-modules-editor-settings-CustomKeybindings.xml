@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bindings PUBLIC "-//NetBeans//DTD Editor KeyBindings settings 1.1//EN" "http://www.netbeans.org/dtds/EditorKeyBindings-1_1.dtd">
+<bindings>
+    <bind actionName="debug-focused-test" key="SO-F5"/>
+    <bind actionName="debug-focused-test" key="SA-F5"/>
+    <bind actionName="rails-generator" key="O-I"/>
+    <bind actionName="rails-generator" key="O-INSERT"/>
+    <bind actionName="run-focused-spec" key="SA-F6"/>
+    <bind actionName="run-focused-spec" key="SO-F6"/>
+    <bind key="O-F1" remove="true"/>
+</bindings>

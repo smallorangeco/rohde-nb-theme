@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor bgColor="orange" foreColor="white" name="caret-color-insert-mode"/>
+    <fontcolor foreColor="white" name="nbeditor-bracesMatching-sidebar"/>
+    <fontcolor name="trailing-whitespace"/>
+    <fontcolor foreColor="ffd3d3d3" name="indent-guide-lines"/>
+    <fontcolor default="default" name="text-limit-line-color"/>
+    <fontcolor bgColor="ffdfdfdf" name="readonly-files"/>
+    <fontcolor foreColor="white" name="hyperlinks" underline="white"/>
+    <fontcolor foreColor="red" name="status-bar-bold"/>
+    <fontcolor foreColor="white" name="caret-color-overwrite-mode"/>
+    <fontcolor name="status-bar"/>
+    <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
+    <fontcolor bgColor="ffffe792" default="default" foreColor="black" name="highlight-search"/>
+    <fontcolor bgColor="ff49483e" foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
+    <fontcolor default="default" name="nbeditor-bracesMatching-mismatch"/>
+    <fontcolor foreColor="ff666666" name="code-folding"/>
+    <fontcolor bgColor="yellow" default="default" name="block-search"/>
+    <fontcolor bgColor="ffec2772" default="default" foreColor="black" name="nbeditor-bracesMatching-match-multichar"/>
+    <fontcolor default="default" foreColor="ff8f908a" name="line-number"/>
+    <fontcolor default="default" name="highlight-caret-row"/>
+    <fontcolor bgColor="white" default="default" foreColor="darkGray" name="selection"/>
+    <fontcolor bgColor="ffffb442" foreColor="black" name="inc-search"/>
+    <fontcolor name="indent-whitespace"/>
+    <fontcolor foreColor="ff666666" name="code-folding-bar"/>
+    <fontcolor default="default" name="nbeditor-bracesMatching-mismatch-multichar"/>
+    <fontcolor bgColor="ffec2772" default="default" foreColor="black" name="nbeditor-bracesMatching-match"/>
+    <fontcolor bgColor="ffdfdfdf" name="guarded"/>
+</fontscolors>
